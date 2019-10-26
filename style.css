@@ -1,0 +1,71 @@
+header{
+    text-align: center;
+}
+
+h1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+ 
+}
+
+h2{
+    padding-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
+
+}
+
+.container{
+    margin-top: 40px;
+    padding-bottom: 40px;
+    background: white;
+}
+
+.container-inside{
+    margin:0 auto;
+    box-shadow:0 0 40px #E0E0E0;
+}
+.col-md-10{
+    padding-bottom: 80px;
+}
+
+textarea{
+    margin: 0 auto;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+.Password{
+    background-color: rgb(228, 104, 83);
+    padding: 10px;
+    color: white;
+    float: left;
+    margin-left: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;
+    outline: none;
+    border: none;
+  
+}
+.Clipboard{
+    background-color: #c0c7cf;
+    padding: 10px;
+    color: white;
+    outline: none;
+    border: none;
+    float: right;
+    margin-right: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 500;   
+}
+
+.Password:hover{
+    background:rgb(143, 66, 53);
+}
+
+.Clipboard:hover{
+    background:#9aa3ad ;
+}
